@@ -147,9 +147,9 @@ curl -X POST https://api.jsonbin.io/v3/b \
 ### Environment Variables Details
 | Variable | Description | Required | Example |
 |----------|-------------|----------|---------|
-| `DISCORD_BOT_TOKEN` | Your Discord bot token | ✅ | `MTEyMzQ1Njc4OTAxMTIzNDU2.G-8Pty.Z8UEYd` |
-| `JSONBIN_URL` | Your JSONBin.io bin URL | ✅ | `https://api.jsonbin.io/v3/b/692833a9d0ea881f40035391` |
-| `JSONBIN_API_KEY` | JSONBin.io master key | ✅ | `$2a$10$FggI8qWQV8M6q1EB5qKvZOZfQCPPyPyVnxUQ6XWnT24r9YE53JnUa` |
+| `DISCORD_BOT_TOKEN` | Your Discord bot token | ✅ | `MTEyMzQ1NeeeeeeeDU2.G-8Pty.Z8UEYd` |
+| `JSONBIN_URL` | Your JSONBin.io bin URL | ✅ | `https://api.jsonbin.io/v3/b/692833aeeeeeee1f40035391` |
+| `JSONBIN_API_KEY` | JSONBin.io master key | ✅ | `$2a$10$FggI8qWQV8M6q1EB5qKvZOZeeeeeeee6XWnT24r9YE53JnUa` |
 | `LOG_CHANNEL_ID` | Discord channel ID for logs | ✅ | `123456789012345678` |
 | `DEV_DISCORD_ID` | Bot owner's Discord ID | ✅ | `123456789012345678` |
 | `ALLOWED_CHANNEL` | Channel where commands work | ✅ | `123456789012345678` |
